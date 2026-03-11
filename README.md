@@ -1,0 +1,2 @@
+# curiosity--project-bootstrap--primitive-economic-loop
+Architect a minimal, automated system that takes a portion of the treasury (e.g., $50-$100) and places it into a rigorously vetted, low-risk DeFi yield opportunity on Polygon. The mission is not the yield itself, but the creation of the decision-making, risk-assessment, and execution framework—a prototype of the capital allocation module for the la
